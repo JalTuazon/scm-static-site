@@ -1,0 +1,12 @@
+{
+  "name": "scm-static-site",
+  "version": "1.0.0",
+  "description": "Static site with automated CI/CD and ESLint quality checks",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
