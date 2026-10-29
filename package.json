@@ -8,7 +8,7 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "eslint": "^8.57.1",
+    "eslint": "^8.57.0",
     "jest": "^30.5.2"
   },
   "dependencies": {
